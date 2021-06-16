@@ -1,10 +1,10 @@
 # #windows Home
 
-## We have moved to libera! This site can now also be reached at https://libera-windows.com
+### We have moved to libera! This site can now also be reached at https://libera-windows.com
 
 Visit https://libera.chat/ for information about the new network.
 
-## A Windows channel on a FOSS-ish network? What's up with that?**
+### A Windows channel on a FOSS-ish network? What's up with that?**
 
 Yeah. Windows costs money (although free trials are available), and the source is not libre. But support doesn't have to cost money. We choose to provide support for Windows on this very FOSS network because a) we love the attitude of this network and b) much FOSS software runs on Windows.
 
