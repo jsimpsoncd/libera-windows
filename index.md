@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# #windows Home
 
-You can use the [editor on GitHub](https://github.com/JonathanD82/libera-windows/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## We have moved to libera! This site can now also be reached at https://libera-windows.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visit https://libera.chat/ for information about the new network.
 
-### Markdown
+## A Windows channel on a FOSS-ish network? What's up with that?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Yeah. Windows costs money (although free trials are available), and the source is not libre. But support doesn't have to cost money. We choose to provide support for Windows on this very FOSS network because a) we love the attitude of this network and b) much FOSS software runs on Windows.
 
-```markdown
-Syntax highlighted code block
+We aim to provide knowledgeable help with Windows, but we are not Microsoft/Windows evangelists. No matter which OS you run, if you are happy with it, we are happy for you. We see this as a simple matter of choice by individuals, not as a Holy War of Ideology. We're not out to dominate the world, or even change anyone's mind.
 
-# Header 1
-## Header 2
-### Header 3
+So, if you came here for a fight, we're not really interested. But we're happy to answer questions, or generally discuss the OS strengths and weaknesses. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanD82/libera-windows/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In case you're wondering, many of the people hanging around the channel are running Linux, BSD, or some other OS. Some channel regulars don't run Windows at all. 
