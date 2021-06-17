@@ -1,4 +1,4 @@
-Channel Guidelines
+# Channel Guidelines
 
 Be polite,
 be factual,
